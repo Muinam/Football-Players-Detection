@@ -1,11 +1,11 @@
-# ⚽ Football Players Detection using YOLOv8
+# Football Players Detection using YOLOv8
 
 This project implements a Football Player Detection system using YOLOv8.  
 It trains a custom object detection model on a Roboflow dataset and performs inference on both images and videos.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The system:
 
@@ -19,7 +19,7 @@ This project demonstrates practical Computer Vision skills using Ultralytics YOL
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - YOLOv8 (Ultralytics)
@@ -29,9 +29,10 @@ This project demonstrates practical Computer Vision skills using Ultralytics YOL
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
-### 1️⃣ Install Dependencies
+### Install Dependencies
 
 pip install roboflow
+
 pip install ultralytics
